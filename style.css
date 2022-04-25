@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    background-color: #333;
+    
+}
+
+.header {
+    background-color: #444;
+    color: #eb1729fb;
+    display: flex;
+    justify-content: center;
+}
+
+.header h1 {
+    margin: 0;
+}
+
+.optionBoard {
+    margin-left: 2.5vw;
+    margin-top: 2.5%;
+    width: 16vw;
+    background-color: #222;
+    color: #eb1729fb;
+    /* display: flex; */
+    /* flex-direction: column; */
+    display: inline-block;
+    border-radius: 4px;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    color: red;
+    text-decoration: underline;
+    font-size: 12px;
+}
+
+.devider {
+    margin: 0;
+    width: 200px;
+}
